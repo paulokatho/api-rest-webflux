@@ -14,7 +14,7 @@ import reactor.core.publisher.Mono;
 import static org.springframework.web.reactive.function.server.ServerResponse.ok;
 import static org.springframework.web.reactive.function.BodyInserters.fromPublisher;
 
-@Component
+//@Component
 public class PlaylistHandler {
 	
 	@Autowired
